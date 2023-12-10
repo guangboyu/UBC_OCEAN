@@ -3,3 +3,4 @@ logs
 saved_models
 tiles-of-cancer*
 __pycache__
+*.pt
